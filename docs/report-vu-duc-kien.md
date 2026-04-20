@@ -3,7 +3,7 @@
 > Individual split report generated from `docs/blueprint-template.md` for Vũ Đức Kiên.
 
 ## 1. Team Metadata
-- **GROUP_NAME**: Huy-Kha-Hieu-Kien
+- **GROUP_NAME**: 72
 - **REPO_URL**: https://github.com/khadpham/Lab13-Observability
 - **MEMBERS**:
   - Member A: Trần Đặng Quang Huy | Role: Logging, PII, final integration
